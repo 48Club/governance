@@ -1,0 +1,22 @@
+BNB48IP-8: Proposal about new Koge Burning Procedure
+Ian BNB48April 18, 2021
+Considering the issue of Koge's liquidity size, a new liquidity-burning model is proposed here, specifically as follows:
+
+
+
+Use the allocated BNB to build a single-asset liquidity pool, that is, a liquidity burning pool.
+
+The BNB in this liquidity pool will never be withdrawn unless otherwise determined by all Koge holders through the governance process.
+
+Koge passively bought by the liquidity pool will be regularly (manually at first ) withdrawn for destruction. For example, every quarter, the Koge from the previous quarter will be withdrawn for burning and new BNB from current quarter will be deposited.
+
+Such a single-asset liquidity pool can be realized through Dodo, and through this way we can effectively avoid dramatic impact on the market price caused by buy-back and burn.
+
+---------------------
+
+考虑到Koge的交易深度问题，在此提议一种新的流动性销毁模式，具体为：
+
+使用待用于回购的BNB构建单资产流动性池，即销毁流动池。
+注入该流动性池的BNB除非经Koge全体持有者经治理流程另有决议，否则永不提取。
+流动性池被动买入的Koge定期提取进行销毁。例如每季度提取出上季度至今的Koge予以销毁并注入本季度用于销毁的BNB。
+这样的单资产流动池可以通过Dodo予以实现，以流动性池的方式销毁也可以避免销毁对市价带来的剧烈影响。
