@@ -1,0 +1,13 @@
+BNB48IP-11: Proposal to limit the maximum governance votes for a single account/提议限制单账户最高治理票数
+Ian BNB48September 20, 2021
+建议在通过机器人实现的链下DAO中，限制单个Telegram账户最大的有效票数为10万票，即使其持有的Koge数量超过10万。
+
+对于持有不足10万Koge的Telegram账户，仍保持票数=持有Koge数的规则。
+
+此举旨在限制Koge巨鲸利用链上Koge尚无投票权的真空期滥用投票权操控提案及结果。
+
+Hereby I propose to limit the maximum voting power  for a single Telegram account to 100,000 votes in the off-chain DAO, even if the number of Koge held by it exceeds 100,000.
+
+For Telegram accounts with less than 100,000 Koge, the old rule (voting power = the number of Koge held) is still maintained.
+
+This move is aimed at restricting Koge giant whales from manipulating the DAO during the vacuum period when Koge on-chain does not have voting rights.
