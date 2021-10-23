@@ -1,0 +1,18 @@
+BNB48IP-12: Details proposal regarding Committee / 关于理事会的一些补充提案
+Ian BNB48October 01, 2021
+The committee is an organization that consists of some club members elected according to a specific procedure. The committee uses off-chain discussions as a decision-making process to make decisions on behalf of All Koge Holders (hereinafter referred to as the DAO).
+Committee candidates must meet the minimum requirements for eligible Koge holding, or they will be immediately disqualified as committee/nominations will be invalid.
+Define the "minimum requirements for eligible Koge holding" as 10,000 Koge, and this parameter is subject to DAO governance.
+The board of directors is authorized to carry out the following affairs without declaration, except what's done needs to be publicized within the club no later than 24 hours after the execution occurs: 
+(a) Club-held Koge spending due to club affairs (b) Payment not exceeding the equivalent of 10 BNB for each time or 100 BNB per month. (c) Execution for what's carried in Light-Paper or DAO decision. (d) Emergent issues.
+
+5. Proposal inside committee discussion will be treated as passed with following criteria met:  one committee, one vote/More than half of the committee vote "Yes"/ "Veto" votes doesn't exceed one-third of the total votes.
+
+6. In case there is a conflict between the DAO conslusion and a committee one, the DAO takes precedence.
+
+理事会是根据特定程序选择一些俱乐部成员组成的、通过链下讨论作为决策过程、代替全体Koge持有人大会(后简称DAO)行使部分权力的组织。
+理事/候选人需满足链下持仓最低要求，否则即时失去理事身份/提名无效。
+定义“理事/候选人链下持仓最低要求”为10,000 Koge，该参数服从DAO治理。
+以下事务理事会经内部议事表决通过后无需经过DAO治理表决即可执行，唯需不晚于执行发生后24小时内对俱乐部内部公示：因俱乐部事务支出俱乐部持有的Koge / 因俱乐部事务单次不超过等值10 BNB 单月累计不超过等值100 BNB的支出 / 对白皮书或已通过DAO表决的决议的执行/确属紧急情况且事后补充进行了提案表决。
+理事会内部议事满足如下3原则视为表决通过：一理事一票/赞成票数超过理事总数一半/否决票不超过投票总数三分之一。
+当DAO决议与理事会议事结论存在冲突时，应以DAO决议为准。
